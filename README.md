@@ -1,3 +1,4 @@
 # hello
-Stepping into
-Testing waters
+This is Rahul
+
+I am into DB Architecture, solutioning, Security and Automation
